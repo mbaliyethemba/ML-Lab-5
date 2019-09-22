@@ -22,7 +22,7 @@ class state{
 		void set_value(float);
 		void set_discount(float);
 		void set_prob(float);
-		void set_state_no(float);
+		void set_state_no(int);
 		float get_discount();
 		float get_prob();
 		std::map<int, int> get_reward();
@@ -30,4 +30,6 @@ class state{
 		float get_value();
 		std::vector<char> get_action();
 		void to_string();
-	}
+	};
+	
+#endif
