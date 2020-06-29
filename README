@@ -1,0 +1,8 @@
+# ML_LAB_5
+Lab 5: Reinforcement Learning
+
+Instructions
+
+	Navigate to the project root directory.
+	Run make to build the executable, driver.
+	Run make clean to delete any artifacts created when compiling & running the program.
